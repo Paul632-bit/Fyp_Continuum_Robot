@@ -21,8 +21,9 @@ This project presents a **data-driven framework** that:
 | Mean Position Error | ~0.01 mm | 3.14-3.82 mm |
 | Computation Time | ~14 ms | ~4 ms |
 | Speedup | 1x | 3x |
-<img width="800" height="400" alt="anim_circle_180deg" src="https://github.com/user-attachments/assets/5a2a101e-f7a9-4212-9717-489edb331da3" />
-<img width="800" height="400" alt="anim_fig8_180deg" src="https://github.com/user-attachments/assets/8896ee6a-de69-44cd-b7c1-fc6ff18fdb76" />
+
+<img width="750" height="350" alt="anim_fig8_180deg" src="https://github.com/user-attachments/assets/8a451a0b-49c5-4f6c-92de-6a9ffda683b7" />
+<img width="750" height="350" alt="anim_circle_90deg" src="https://github.com/user-attachments/assets/14b80f0e-a859-49bb-a518-e993d72cf483" />
 
 
 
@@ -186,7 +187,7 @@ If you use this code or findings in your research, please cite:
 ## Acknowledgments
 
 - **Prof. Jiewen Lai** - Supervisor
-- **Ms. Xiu Yang (Xie Yang)** - Research assistant, provided forward kinematics model and numerical optimization framework
+- **Ms. Xiu Yang** - Research assistant, provided forward kinematics model and numerical optimization framework
 - **Department of Electronic Engineering** - The Chinese University of Hong Kong
 
 
